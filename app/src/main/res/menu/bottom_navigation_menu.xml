@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btn_reset"
+        android:enabled="true"
+        android:icon="@drawable/ic_reset"
+        android:title="@string/btn_reset" />
+    <item
+        android:id="@+id/btn_solve"
+        android:enabled="true"
+        android:icon="@drawable/ic_solve"
+        android:title="@string/btn_solve" />
+    <item
+        android:id="@+id/btn_about"
+        android:enabled="true"
+        android:icon="@drawable/ic_about"
+        android:title="@string/btn_about" />
+</menu>

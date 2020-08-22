@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AUX - Sudoku Solver</string>
+    <string name="textView3">AUX - Sudoku Solver</string>
+    <string name="textView4">#About:</string>
+    <string name="textView5">This is an application developed to solve sudoku game with the help of Backtracking Algorithm.</string>
+    <string name="textView6">#How To Use:</string>
+    <string name="textView7">1. Enter your sudoku numbers into given boxes \n2. Click on Solve button. \n3. TaDa - Your sudoku is solved : ) \n\nNote: If you want to try again then just click on reset button and follow above steps!!</string>
+    <string name="textView">AUX - Sudoku Solver</string>
+    <string name="btn_reset">RESET</string>
+    <string name="btn_solve">SOLVE</string>
+    <string name="btn_about">ABOUT</string>
+</resources>
